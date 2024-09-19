@@ -1,4 +1,4 @@
-# Interagindo com um bot
+# Interagindo com um botão
 Este projeto demonstra uma função JavaScript que altera o texto de um botão HTML e exibe um alerta com o texto atualizado do botão.
 
 ## Descrição
